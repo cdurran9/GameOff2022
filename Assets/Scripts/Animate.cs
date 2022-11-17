@@ -21,6 +21,7 @@ public class Animate : MonoBehaviour
     public void SetFlip(bool flipped)
     {
         spriteRenderer.flipX = flipped;
+        //Can we send this my pig?
     }
 
     public void SetSprite(string id)
